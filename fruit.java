@@ -40,3 +40,6 @@ public class Fruit {
 }
 
 //ashley's second commit
+//new edit
+
+//ashley's second commit
